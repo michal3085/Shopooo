@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43208f1f-1c5d-41f1-8031-99d43c29399b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Shopooo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Shopooo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +157,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -182,7 +176,11 @@
       <updated>1604654034182</updated>
       <workItem from="1604654036709" duration="1834000" />
       <workItem from="1604921699439" duration="278000" />
-      <workItem from="1604945029940" duration="7412000" />
+      <workItem from="1604945029940" duration="8348000" />
+      <workItem from="1605002729067" duration="4439000" />
+      <workItem from="1605012487756" duration="3040000" />
+      <workItem from="1605025541233" duration="189000" />
+      <workItem from="1605046763194" duration="962000" />
     </task>
     <servers />
   </component>
@@ -203,5 +201,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="172" width="1022" height="737" key="SettingsEditor" timestamp="1605003605897">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="463" y="172" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.148.1280.1024@0.27.1920.1053" timestamp="1605003605897" />
   </component>
 </project>
