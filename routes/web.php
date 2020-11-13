@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\HelloWorldController;
+use App\Http\Controllers\TestController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,6 +20,9 @@ Route::get('/', function () {
 });
 
 Route::get('/hello', [HelloWorldController::class, 'show']);
+
+Route::get('/test', [TestController::class, 'ShowResult']);
+Route::get('/test/add', [TestController::class, 'Add']);
 
 Auth::routes();
 

@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43208f1f-1c5d-41f1-8031-99d43c29399b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +180,9 @@
       <workItem from="1605002729067" duration="4439000" />
       <workItem from="1605012487756" duration="3040000" />
       <workItem from="1605025541233" duration="189000" />
-      <workItem from="1605046763194" duration="962000" />
+      <workItem from="1605046763194" duration="2174000" />
+      <workItem from="1605172569997" duration="14344000" />
+      <workItem from="1605259016367" duration="334000" />
     </task>
     <servers />
   </component>
@@ -207,5 +209,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="463" y="172" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.148.1280.1024@0.27.1920.1053" timestamp="1605003605897" />
+    <state x="627" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1605192986723">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="627" y="272" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.148.1280.1024@0.27.1920.1053" timestamp="1605192986723" />
   </component>
 </project>
