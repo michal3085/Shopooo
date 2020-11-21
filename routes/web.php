@@ -21,7 +21,7 @@ Route::get('/', function () {
 
 Route::get('/hello', [HelloWorldController::class, 'show']);
 
-Route::get('/test', [TestController::class, 'ShowResult']);
+Route::get('/test', [TestController::class, 'ShowResult'])->name('test');
 Route::get('/test/add', [TestController::class, 'Add']);
 
 Auth::routes();
